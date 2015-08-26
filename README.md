@@ -1,2 +1,3 @@
-# expogrid-branding
-Expogrid branding assets (logo etc).
+# edgeslate-branding
+
+Edgeslate branding assets (logo etc).
